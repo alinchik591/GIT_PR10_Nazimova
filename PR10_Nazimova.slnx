@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/.github/" />
+  <Folder Name="/.github/workflows/">
+    <File Path="pr10.yml" />
+  </Folder>
   <Project Path="PR10_Nazimova.csproj" />
 </Solution>
